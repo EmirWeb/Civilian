@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Civilian</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_civilian">Civilian Activity</string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter Message</string>
+    
+    
+    
+
+</resources>
